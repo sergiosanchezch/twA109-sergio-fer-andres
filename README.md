@@ -1,11 +1,12 @@
 # Título del trabajo
 
-Descripción breve del proyecto a realizar (2-3 frases).
+Programar un dispositivo de música que reproduzca una serie de estilos musicales, canciones o sonidos según el color que le pongamos delante.
 
 ## Integrantes del equipo
-
-Nombres, apellidos, y usuario GitHub de los integrantes del equipo.
+Fernando Marín Raez. fernandomarinraez.
+Andrés Pérez Mora. apmora.
+Sergio Sánchez Chamizo  sergiosanchezch.
 
 ## Objetivos del trabajo
+El objetivo del trabajo es que el dispositivo sea capaz de detectar el color a partir de un sensor y reproduzca el sonido asociado a dicho color.
 
-Lista de los objetivos que se persiguen con el trabajo propuesto.
